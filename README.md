@@ -1,4 +1,4 @@
-![githubbanner](https://raw.githubusercontent.com/samuelmhg97/samuelmhg97/main/githubbanner.png)
+![githubbanner](https://raw.githubusercontent.com/samuelmhg97/samuelmhg97/main/gihubbanner.png)
 
 <h1 align="center">Hi 👋, I'm Samuel Herrera</h1>
 <h3 align="center">A passionate Full Stack developer from Venezuela actually living in Argentina</h3>
